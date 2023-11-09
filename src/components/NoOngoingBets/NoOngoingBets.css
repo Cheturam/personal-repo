@@ -1,0 +1,38 @@
+.icon {
+  position: relative;
+  width: 234px;
+  height: 292.31px;
+}
+.description {
+  display: inline-block;
+  width: 347px;
+}
+.description,
+.title {
+  position: relative;
+  font-weight: 600;
+}
+.primarybutton {
+  border-radius: 8px;
+  background: linear-gradient(92.57deg, #738ffe 4.35%, #597eff), #1c8d19;
+  width: 380px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 97px;
+  box-sizing: border-box;
+  text-align: left;
+  color: #fff;
+}
+.no-ongoing-bets {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 28px;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: Poppins;
+}

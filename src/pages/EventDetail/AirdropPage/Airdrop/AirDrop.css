@@ -1,0 +1,99 @@
+.icon9 {
+  position: relative;
+  width: 39.71px;
+  height: 36.26px;
+}
+.bjcoins {
+  font-size: 18px;
+}
+.coins6 {
+  position: relative;
+}
+.coins-cont3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.gift-icon2 {
+  position: relative;
+  width: 40px;
+  height: 45.62px;
+}
+.header1 {
+  display: flex;
+  justify-content: space-between;
+  align-self: stretch;
+  z-index: 0;
+  font-size: 31px;
+}
+.blue-text1,
+.title-11 {
+  position: relative;
+  line-height: 22px;
+  color: #cdcdcd;
+  z-index: 1;
+}
+.blue-text1 {
+  color: #738ffe;
+  z-index: 2;
+}
+.redeem1 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.redeem-container {
+  cursor: pointer;
+  border: 0;
+  padding: 14px 0;
+  width: 100%;
+  background-color: transparent;
+  background: linear-gradient(92.57deg, #738ffe 4.35%, #597eff), #1c8d19;
+  flex-direction: row;
+  justify-content: center;
+  z-index: 3;
+}
+.airdrop,
+.pill1,
+.redeem-container {
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+}
+.pill1 {
+  margin: 0 !important;
+  position: absolute;
+  top: -16px;
+  right: 30px;
+  background: linear-gradient(92.57deg, #738ffe 4.35%, #597eff), #1c8d19;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 12px;
+  z-index: 4;
+  font-size: 16px;
+  font-family: Inter;
+}
+.airdrop {
+  background-color: #12294a;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 25px 16px 13px;
+  position: relative;
+  gap: 13px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Poppins;
+  margin-bottom: 28px;
+}
+.prize-icon {
+  width: 60px;
+  max-height: 80px;
+  margin-top: -40px;
+}

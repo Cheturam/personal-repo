@@ -1,0 +1,56 @@
+.navbar {
+  position:sticky;
+  top: 0;
+  align-self: stretch;
+  background-color: #203862;
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 15px 24px;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 99;
+  .menu-icon {
+    position: relative;
+    width: 36px;
+    height: 36px;
+  }
+  .logo {
+    position: relative;
+    letter-spacing: 0.02em;
+  }
+  .menu-logo-cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+  }
+  .coin-icon3 {
+    width: 26.29px;
+    height: 24px;
+  }
+  .b4,
+  .coin-icon3 {
+    position: relative;
+  }
+  .wallet {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .wallet {
+    border-radius: 16px;
+    background-color: #12294a;
+    border: 2px solid #1e3453;
+    justify-content: center;
+    padding: 8px 17px;
+    gap: 10px;
+    font-size: 16px;
+  }
+}

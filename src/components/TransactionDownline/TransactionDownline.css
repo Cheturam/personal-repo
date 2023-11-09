@@ -1,0 +1,51 @@
+.amy-webber,
+.div {
+  position: relative;
+  font-weight: 600;
+}
+.div {
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.6);
+}
+.left-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.icon4 {
+  position: relative;
+  width: 26.29px;
+  height: 24px;
+}
+.coins,
+.right-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.right-cont {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
+  text-align: right;
+}
+.transaction-downline {
+  border-bottom: 2px solid #203862;
+  box-sizing: border-box;
+  width: 398px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 9px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Poppins;
+}

@@ -1,0 +1,92 @@
+.prize-image-icon2 {
+  align-self: stretch;
+  position: relative;
+  border-radius: 12px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 155px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.span {
+  font-size: 24px;
+  color: #738ffe;
+}
+.top-title {
+  position: relative;
+  font-weight: 600;
+}
+.coins5,
+.icon8 {
+  position: absolute;
+}
+.icon8 {
+  top: 2px;
+  left: 168px;
+  width: 26.29px;
+  height: 24px;
+}
+.coins5 {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.bottom-title {
+  position: relative;
+  width: 194.29px;
+  height: 27px;
+  color: rgba(255, 255, 255, 0.6);
+}
+.left-cont2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.title14 {
+  position: relative;
+  font-size: 18px;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.primarybutton1 {
+  cursor: pointer;
+  border: 0;
+  padding: 14px 97px;
+  background-color: transparent;
+  border-radius: 8px;
+  background: linear-gradient(92.57deg, #738ffe 4.35%, #597eff), #1c8d19;
+  width: 136px;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.bottom-cont1,
+.primarybutton1,
+.redeem-prize {
+  display: flex;
+  align-items: center;
+}
+.bottom-cont1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.redeem-prize {
+  border-radius: 16px;
+  background-color: #203862;
+  backdrop-filter: blur(10px);
+  width: 380px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 10px 15px;
+  box-sizing: border-box;
+  gap: 10px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Poppins;
+}

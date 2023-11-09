@@ -1,0 +1,24 @@
+.icon10 {
+  position: relative;
+  width: 360px;
+  height: 360px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.title15 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 347px;
+}
+.no-airdrops-available {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 22px;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: Poppins;
+}

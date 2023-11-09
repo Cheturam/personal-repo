@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=K2D:wght@700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap);
+body {
+  margin: 0;
+  line-height: normal;
+}
+.page {
+  position: relative;
+  min-height: 100vh;
+  background-color: #02193a;
+}
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  max-width : 500px;
+  width: 100vw;
+  margin: 0 auto;
+  background-color: #012354;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+.p-22 {
+  padding: 22px;
+}
+.w-100 {
+  width: 100%;
+}

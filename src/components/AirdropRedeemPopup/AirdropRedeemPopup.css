@@ -1,0 +1,90 @@
+.title25 {
+  position: relative;
+  font-weight: 600;
+  z-index: 0;
+}
+.coin-icon2 {
+  position: relative;
+  width: 39.71px;
+  height: 36.26px;
+}
+.bjcoins1 {
+  font-size: 18px;
+}
+.title26 {
+  position: relative;
+}
+.coins-cont4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.description9 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  display: inline-block;
+  width: 347px;
+}
+.content3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 0 0;
+  gap: 16px;
+  z-index: 1;
+  font-size: 31px;
+}
+.title27 {
+  position: relative;
+  font-size: 18px;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.primarybutton5 {
+  cursor: pointer;
+  border: 0;
+  padding: 13px 60px;
+  background-color: transparent;
+  border-radius: 8px;
+  background: linear-gradient(92.57deg, #738ffe 4.35%, #597eff);
+  width: 347px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.airdrop-redeem-popup-child {
+  position: absolute;
+  margin: 0 !important;
+  top: 21px;
+  left: 340px;
+  width: 24px;
+  height: 24px;
+  z-index: 3;
+}
+.airdrop-redeem-popup {
+  border-radius: 16px;
+  background-color: #0e2a54;
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 17px;
+  position: relative;
+  gap: 10px;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: Poppins;
+}

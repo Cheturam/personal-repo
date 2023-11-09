@@ -1,0 +1,30 @@
+.icon1,
+.title1 {
+  position: relative;
+}
+.icon1 {
+  width: 299.6px;
+  height: 201.35px;
+}
+.title1 {
+  letter-spacing: 0.02em;
+}
+.description1 {
+  position: relative;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.6);
+  display: inline-block;
+  width: 380px;
+}
+.no-downline-history {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 19px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: Poppins;
+}
